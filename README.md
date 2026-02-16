@@ -5,8 +5,8 @@
 [![Made with AI](https://img.shields.io/badge/Made%20with-AI-blue?logo=google-gemini&logoColor=white)](https://deepmind.google/)
 [![Author](https://img.shields.io/badge/Author-Miki%20Mame-lightgrey)](https://github.com/MikiMameme)
 
-![スクリーンショット](docs/screenshot.png)
-*(※ここにスクリーンショット画像を配置してください)*
+![スクリーンショット](https://github.com/MikiMameme/Manning_App/blob/main/Screenshot.png)
+
 
 ## 🛠 開発の背景：現場の「あったらいいな」を形に  
 本アプリは、制作者自身が製造・介護・接客という「現場一筋」のキャリアの中で感じてきた課題を解決するために開発されました。  
