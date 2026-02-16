@@ -1,0 +1,11 @@
+[package]
+name = "Manning_proto"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.26"
+chrono = "0.4"
+rfd = "0.12"
+image = { version = "0.24", default-features = false, features = ["png"] }
+calamine = { version = "0.24", features = ["dates"] }
